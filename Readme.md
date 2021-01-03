@@ -1,4 +1,6 @@
 This is readme file
 
-Read me edited. Merged from: feature 1.0
+Read me edited. Merged from: feature.
+
+Stashed changes
 
