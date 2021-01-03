@@ -6,3 +6,5 @@ Stashed changes
 
 my changes
 
+Modified by other developer
+
