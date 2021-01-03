@@ -1,3 +1,3 @@
 This is readme file
 
-Rad me edited
+Read me edited
