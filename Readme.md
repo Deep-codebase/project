@@ -8,3 +8,4 @@ my changes
 
 Modified by other developer
 
+Final changes in features/1.0
